@@ -2,6 +2,7 @@ package WorkCommandsList
 import ProgrammRootFile.*
 
 class Help {
+//    comment 1
     companion object{
         fun help(){
             println(" ")
