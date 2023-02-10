@@ -2,7 +2,7 @@ import ProgrammRootFile.*
 import WorkCommandsList.*
 
 fun main() {
-//hi all!
+//hi allbebra
 // pattern command
 // сдлеать вначале ввода >
     while ("Kotlin" == "Kotlin"){
