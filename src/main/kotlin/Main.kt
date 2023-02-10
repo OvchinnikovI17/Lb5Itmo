@@ -3,7 +3,6 @@ import WorkCommandsList.*
 
 fun main() {
 
-// сдлеать вначале ввода >
     while ("Kotlin" == "Kotlin"){
 
         print("> ")
