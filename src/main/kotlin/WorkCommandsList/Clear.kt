@@ -2,7 +2,7 @@ package WorkCommandsList
 
 import ProgrammRootFile.*
 
-
+// comment2
 class Clear {
         fun clear(){
             while (!WorkWithCollection.priorityQueueCollection.isEmpty()){
