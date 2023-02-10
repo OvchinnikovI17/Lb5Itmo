@@ -2,9 +2,9 @@ import ProgrammRootFile.*
 import WorkCommandsList.*
 
 fun main() {
-
-
-//    hi 2
+//hi all!!!
+// pattern command
+// сдлеать вначале ввода >
     while ("Kotlin" == "Kotlin"){
 
         print("> ")
