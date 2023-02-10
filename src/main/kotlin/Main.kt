@@ -3,8 +3,6 @@ import WorkCommandsList.*
 
 fun main() {
 
-// pattern command
-// сдлеать вначале ввода >
     while ("Kotlin" == "Kotlin"){
 
         print("> ")
