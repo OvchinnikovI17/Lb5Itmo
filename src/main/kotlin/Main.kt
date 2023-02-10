@@ -2,7 +2,11 @@ import ProgrammRootFile.*
 import WorkCommandsList.*
 
 fun main() {
-//hi allbebra
+<<<<<<<<< Temporary merge branch 1
+//hi all!
+=========
+//hi all!!!
+>>>>>>>>> Temporary merge branch 2
 // pattern command
 // сдлеать вначале ввода >
     while ("Kotlin" == "Kotlin"){
